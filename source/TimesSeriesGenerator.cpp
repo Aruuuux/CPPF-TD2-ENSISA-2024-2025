@@ -1,4 +1,4 @@
-#include "headers/TimeSeriesGenerator.h"
+#include "../headers/TimeSeriesGenerator.h"
 
 // Constructeur par défaut initialisant la graine à 0
 TimeSeriesGenerator::TimeSeriesGenerator() : seed(0) {}

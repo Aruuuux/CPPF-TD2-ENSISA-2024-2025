@@ -1,4 +1,4 @@
-#include "headers/StepGenerator.h"
+#include "../headers/StepGenerator.h"
 #include <random>
 
 StepGenerator::StepGenerator() {}

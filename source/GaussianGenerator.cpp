@@ -1,4 +1,4 @@
-#include "headers/GaussianGenerator.h"
+#include "../headers/GaussianGenerator.h"
 #include <cmath>
 #include <random>
 

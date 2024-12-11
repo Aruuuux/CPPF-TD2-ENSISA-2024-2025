@@ -1,4 +1,4 @@
-#include "headers/SinWaveGenerator.h"
+#include "../headers/SinWaveGenerator.h"
 #include <cmath>
 
 SinWaveGenerator::SinWaveGenerator(double amplitude, double frequency, double phase)

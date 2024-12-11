@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "random": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "numeric": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp"
+    }
+}

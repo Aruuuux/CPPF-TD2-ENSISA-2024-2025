@@ -1,5 +1,5 @@
-#ifndef TIMESSERIESGENERATOR.H
-#define TIMESSERIESGENERATOR.H
+#ifndef TIMESSERIESGENERATOR_H
+#define TIMESSERIESGENERATOR_H
 
 #include <vector>
 #include <iostream>
@@ -17,8 +17,6 @@ class TimeSeriesGenerator {
 
         // Fonction virtuelle pure pour générer une série temporelle
         // Prend en paramètre la taille de la série et retourne un vecteur de doubles
-        virtual std::vector<double> generateTimeSeries(int size) = 0;
-
         virtual std::vector<double> generateTimeSeries(int size) = 0;
 
         // Fonction statique pour imprimer une série temporelle
